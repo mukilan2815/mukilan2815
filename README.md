@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mukilan T</h1>
 <h3 align="center">A Frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukilan2815&label=Profile%20views&color=0e75b6&style=flat" alt="mukilan2815" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukilan2815" alt="mukilan2815" /></a> </p>
+
+- 🔭 I’m currently working on **offline Large language model**
+
+- 🌱 I’m currently learning **Deep learning**
+
+- 👨‍💻 All of my projects are available at [https://mukilan-portfolio.netlify.app/](https://mukilan-portfolio.netlify.app/)
+
+- 📫 How to reach me **mukilan2808@gmail.com**
+
+- ⚡ Fun fact **Teaching machines to out-joke stand-up comedians, one algorithm at a time!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mukilant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukilant" height="30" width="40" /></a>
@@ -13,4 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukilan2815&show_icons=true&locale=en&layout=compact" alt="mukilan2815" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukilan2815&show_icons=true&locale=en" alt="mukilan2815" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukilan2815&" alt="mukilan2815" /></p>
 
