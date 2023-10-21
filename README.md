@@ -29,10 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukilan2815&" alt="mukilan2815" /></p>
 
-<h3 align="left">Contributions</h3>
-
-I'm actively contributing to open-source projects and communities. Here's a summary of my contributions:
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=mukilan2815&count_private=true)
-
-I believe in the power of collaboration and am committed to making a positive impact in the developer community.
