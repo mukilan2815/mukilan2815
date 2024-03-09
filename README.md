@@ -82,7 +82,7 @@
 
 ###
 
-<img align="right" height="240" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="240" padding-rightt="20" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
@@ -90,19 +90,23 @@
   <a href="https://www.instagram.com/___.mukilan.___/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
+  <br />
   <a href="mailto:mukilan2808@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
+  <br />
   <a href="https://www.linkedin.com/in/mukilan2815/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
+  <br />
   <a href="https://wa.me/+917448359935" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="whatsapp logo"  />
   </a>
+  <br />
 </div>
 
 ###
-
+<br />
 <div align="center">
   <a href="https://open.spotify.com/user/m6l3uvm0bk70vh50y9xqqei1k">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=m6l3uvm0bk70vh50y9xqqei1k&count=5" alt="Spotify recently played"  />
