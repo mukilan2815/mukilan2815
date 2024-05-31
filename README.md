@@ -1,3 +1,7 @@
+
+<img src='https://media.licdn.com/dms/image/D5616AQFURnIoP78dOg/profile-displaybackgroundimage-shrink_350_1400/0/1711065335220?e=1722470400&v=beta&t=TLyt9SKtHg2xRDoC6iQ6Gqo__ZWBhgxPl8FHfZs1wZI' alt="Mukilan  cover image" style="height: 300px;"/>
+
+
 # 💫 About Me:
 Currently working on: 🛠️ Fullstack projects at Metaverse Association & ReactJS apps at Asokumar ES Private Limited.<br><br>Looking to collaborate on: 🤝 Innovative tech projects, especially in AI and blockchain.<br><br>Currently learning: 📚 Advanced techniques in ReactJS and blockchain development.<br><br>Ask me about: 💬 Event organization, frontend/backend development, and AI projects.<br><br>Fun fact: 🤣 I once accidentally wrote a code so efficient that it scared even my computer!<br><br><br><br>
 ---
@@ -26,6 +30,5 @@ Currently working on: 🛠️ Fullstack projects at Metaverse Association & Reac
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 </div>
 
