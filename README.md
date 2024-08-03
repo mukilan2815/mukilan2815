@@ -1,5 +1,5 @@
 
-<img src='https://media.licdn.com/dms/image/D5616AQFURnIoP78dOg/profile-displaybackgroundimage-shrink_350_1400/0/1711065335220?e=1722470400&v=beta&t=TLyt9SKtHg2xRDoC6iQ6Gqo__ZWBhgxPl8FHfZs1wZI' alt="Mukilan  cover image" style="height: 300px;"/>
+<img src='https://media.licdn.com/dms/image/D5622AQGt8zNV3ZowOA/feedshare-shrink_800/0/1710418155352?e=1725494400&v=beta&t=f91GnB0g1lTorCS5sSwC6h_iXAR03OJ8zLbdnQH4ugc' alt="Mukilan  cover image" style="height: 300px;"/>
 
 
 # 💫 About Me:
