@@ -1,4 +1,5 @@
-<img src='[https://media.licdn.com/dms/image/v2/D5622AQGt8zNV3ZowOA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1710418155392?e=1728518400&v=beta&t=n5Wo8hlklv8UxSUdkkdOagIc89MnRld34uCsdIwM07o](https://media.licdn.com/dms/image/v2/D5622AQHMfFJujTlBOg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1710418154314?e=1733961600&v=beta&t=gs_9VVkDGG5sIX4YsMMoq944ILgKYp7JvGxlxMIlAzM)' alt="Mukilan cover image" style="height: 300px;"/>
+
+![image](https://github.com/user-attachments/assets/39a545c0-ea5a-4eaf-8452-f5f707bc9175)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mukilan.t) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___.mukilan.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukilan2815) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mukilan2815) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mukilan-T-3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13838928) 
